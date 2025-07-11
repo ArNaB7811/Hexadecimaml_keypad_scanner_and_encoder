@@ -36,4 +36,4 @@ The testbench simulates key presses and validates the operation of the keypad sc
 ## Note
 * The design assumes only one key is pressed at a time.
 ## Output 
-* 
+* ![image alt](https://github.com/ArNaB7811/Hexadecimaml_keypad_scanner_and_encoder/blob/e8293dc571a13feb873e9eb4d86fa5b00e595659/Screenshot%202025-07-11%20194139.png)
